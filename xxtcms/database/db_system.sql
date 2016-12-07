@@ -5,6 +5,8 @@
 
 create database if not exists db_system default character set=utf8 collate=utf8_general_ci;
 
+use db_system;
+
 /*==============================================================*/
 /* Table: tb_log                                                */
 /*==============================================================*/
